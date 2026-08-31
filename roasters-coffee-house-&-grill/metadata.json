@@ -1,0 +1,6 @@
+{
+  "name": "Roasters Coffee House & Grill",
+  "description": "Roasters Coffee House & Grill in F-6 Markaz, Islamabad. Premium coffee, gourmet grill, and warm dining atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
